@@ -9,3 +9,7 @@ Para ver el ejemplo, seguir los siguientes pasos en la tareminal:
 - Instalar dependencias ``npm i``
 - Ejecutar el proyecto en modo desarrollo ``npm run dev``
 - Abrir el sitio en localhost, como se indique en la consola
+
+Un demo con el resultado de aplicar la libreria polyglot se puede ver en el siguiente enlace:
+
+[Demo](https://xaca.github.io/cambio_idioma/)
