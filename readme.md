@@ -1,6 +1,6 @@
 # Cambio de idioma sitio web
 
-En este ejemplo se usa (polyglot.js)[https://www.npmjs.com/package/node-polyglot] para realizar la traducción de idioma de un sitio web.
+En este ejemplo se usa [polyglot.js](https://www.npmjs.com/package/node-polyglot) para realizar la traducción de idioma de un sitio web.
 
 Para ver el ejemplo, seguir los siguientes pasos en la tareminal:
 
